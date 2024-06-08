@@ -1,0 +1,647 @@
+Product_id,Product_Name,Category,Price,Image_link,Product_link
+1,Rush US-EX-3204,sport-shoes,"Rs.13,499",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3204Black_700x700.jpg?v=1704719664,https://www.urbansole.com.pk/collections/sport-shoes/products/us-ex-3204
+2,Raptor US-EX-3206,sport-shoes,"Rs.16,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3206Black_700x700.jpg?v=1704719244,https://www.urbansole.com.pk/collections/sport-shoes/products/us-ex-3206
+3,MEN'S SPORTS SHOES US-EX-3203,sport-shoes,"Rs.13,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3203Grey_700x700.jpg?v=1704716519,https://www.urbansole.com.pk/collections/sport-shoes/products/us-ex-3203
+4,Pulse US-EX-3210,sport-shoes,"Current price
+
+Rs.9,799",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3210Grey_700x700.jpg?v=1704718588,https://www.urbansole.com.pk/collections/sport-shoes/products/us-ex-3210
+5,Fury US-EX-3208,sport-shoes,"Rs.13,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3208Black_700x700.jpg?v=1704718863,https://www.urbansole.com.pk/collections/sport-shoes/products/us-ex-3208
+6,Blaze US-EX-3207,sport-shoes,"Rs.14,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3207Black_702x700.jpg?v=1704718985,https://www.urbansole.com.pk/collections/sport-shoes/products/us-ex-3207
+7,Dune US-EX-3209,sport-shoes,"Rs.13,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3209Grey_700x700.jpg?v=1704718748,https://www.urbansole.com.pk/collections/sport-shoes/products/us-ex-3209
+8,SNEAKER EX-NK-3202,sport-shoes,"Current price
+
+Rs.15,599",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3202Black_700x700.jpg?v=1704718392,https://www.urbansole.com.pk/collections/sport-shoes/products/ex-nk-3202
+9,Volcano EX-PG-3203,sport-shoes,"Current price
+
+Rs.13,199",https://www.urbansole.com.pk/cdn/shop/files/EX-PG-3203Black_700x700.jpg?v=1704719808,https://www.urbansole.com.pk/collections/sport-shoes/products/ex-pg-3203
+10,SNEAKER EX-NK-3203,sport-shoes,"Current price
+
+Rs.15,599",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3203Black_700x700.jpg?v=1704718341,https://www.urbansole.com.pk/collections/sport-shoes/products/ex-nk-3203
+11,SNEAKER EX-NK-3205,sport-shoes,"Current price
+
+Rs.15,999",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3205Grey_703x700.jpg?v=1704717074,https://www.urbansole.com.pk/collections/sport-shoes/products/ex-nk-3205
+12,Pulse EX-NK-3206,sport-shoes,"Current price
+
+Rs.14,399",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3206Black_700x700.jpg?v=1704716914,https://www.urbansole.com.pk/collections/sport-shoes/products/ex-nk-3206
+13,MEN'S SPORTS SHOES US-EX-3202,sport-shoes,"Rs.14,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3202Black_700x700.jpg?v=1704716642,https://www.urbansole.com.pk/collections/sport-shoes/products/us-ex-3202
+14,MEN'S SPORTS SHOES US-EX-3201,sport-shoes,"Rs.15,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3201Black_700x700.jpg?v=1704716742,https://www.urbansole.com.pk/collections/sport-shoes/products/us-ex-3201
+15,Raptor EX-NK-3201,sport-shoes,"Current price
+
+Rs.15,199",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3201Grey_700x700.jpg?v=1704718445,https://www.urbansole.com.pk/collections/sport-shoes/products/ex-nk-3201
+16,SNEAKER EX-NK-3204,sport-shoes,"Current price
+
+Rs.14,799",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3204Grey_700x700.jpg?v=1704717138,https://www.urbansole.com.pk/collections/sport-shoes/products/ex-nk-3204
+17,Rush EX-NK-3207,sport-shoes,"Current price
+
+Rs.15,999",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3207Lt-Grey_700x700.jpg?v=1704717209,https://www.urbansole.com.pk/collections/sport-shoes/products/ex-nk-3207
+18,Dune EX-NK-3208,sport-shoes,"Current price
+
+Rs.15,999",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3208D-Grey_700x700.jpg?v=1704716810,https://www.urbansole.com.pk/collections/sport-shoes/products/ex-nk-3208
+19,MEN'S SPORTS SHOES US-EX-3211,sport-shoes,"Rs.13,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3211Black_700x700.webp?v=1704738983,https://www.urbansole.com.pk/collections/sport-shoes/products/us-ex-3211
+20,MEN'S SPORTS SHOES US-EX-3212,sport-shoes,"Rs.13,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3212Grey_700x700.webp?v=1704739041,https://www.urbansole.com.pk/collections/sport-shoes/products/us-ex-3212
+21,MEN'S SPORTS SHOES US-EX-3214,sport-shoes,"Rs.12,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3214Black_700x700.webp?v=1704739174,https://www.urbansole.com.pk/collections/sport-shoes/products/us-ex-3214
+22,MEN'S SPORTS SHOES US-EX-3253,urbansole-footwear,"Rs.13,499",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3253Grey_700x700.webp?v=1704739341,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3253
+23,MEN'S SPORTS SHOES US-EX-3251,urbansole-footwear,"Rs.13,499",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3251Grey_700x700.webp?v=1704739288,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3251
+24,MEN'S SPORTS SHOES US-EX-3214,urbansole-footwear,"Rs.12,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3214Black_700x700.webp?v=1704739174,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3214
+25,MEN'S SPORTS SHOES US-EX-3213,urbansole-footwear,"Rs.11,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3213Grey_700x700.webp?v=1704739107,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3213
+26,MEN'S SPORTS SHOES US-EX-3212,urbansole-footwear,"Rs.13,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3212Grey_700x700.webp?v=1704739041,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3212
+27,MEN'S SPORTS SHOES US-EX-3211,urbansole-footwear,"Rs.13,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3211Black_700x700.webp?v=1704738983,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3211
+28,FORMAL SHOE PC-RM-3303,urbansole-footwear,"Rs.11,999",https://www.urbansole.com.pk/cdn/shop/files/PC-RM-3303Brown_1_700x700.webp?v=1705382026,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-rm-3303
+29,FORMAL SHOE PC-RM-3302,urbansole-footwear,"Rs.11,999",https://www.urbansole.com.pk/cdn/shop/files/PC-RM-3302Brown_1_700x700.webp?v=1705402972,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-rm-3302
+30,FORMAL SHOE PC-RM-3301,urbansole-footwear,"Rs.11,999",https://www.urbansole.com.pk/cdn/shop/files/PC-RM-3301Brown_1_700x700.webp?v=1705382012,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-rm-3301
+31,Sailor US-FX-3104,urbansole-footwear,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3104Navy_6d4ba74d-eb47-4692-a8d5-613f87153e4c_700x700.jpg?v=1704705110,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-fx-3104-navy
+32,Cosmora US-FX-3105,urbansole-footwear,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3105Grey_fb2f78a2-ec24-40e9-a86f-090c01b53675_700x700.jpg?v=1704704181,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-fx-3105-grey
+33,Sailor US-FX-3104,urbansole-footwear,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3104Cuiou_4e4bcfa9-74e0-44ea-99c6-83c7ad5363d3_700x700.jpg?v=1704704957,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-fx-3104-black
+34,Imperium US-FX-3103,urbansole-footwear,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3103Windy_7f94bb21-b700-4812-a3bc-37a6dcc552a1_700x700.jpg?v=1704704592,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-fx-3103-windy
+35,Czar US-FX-3102,urbansole-footwear,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3102M.Brown_e4758c24-b3c4-4b27-9f37-6427b9dbcc37_700x700.jpg?v=1704450610,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-fx-3102-m-brown
+36,Victor US-FX-3101,urbansole-footwear,"Current price
+
+Rs.5,949",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3101Black_3a381dee-9474-4711-8534-402eec356a46_700x700.jpg?v=1704704334,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-fx-3101-tan
+37,Quest US-TM-3304,urbansole-footwear,"Rs.9,999",https://www.urbansole.com.pk/cdn/shop/files/US-TM-3304Black_700x700.jpg?v=1705202842,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-tm-3304
+38,FORMAL SHOE US-PM-3301,urbansole-footwear,"Current price
+
+Rs.4,199",https://www.urbansole.com.pk/cdn/shop/files/US-PM-3301Black_700x700.jpg?v=1705403333,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-pm-3301
+39,MEN'S SPORTS SHOES US-NL-3304,urbansole-footwear,"Rs.4,999",https://www.urbansole.com.pk/cdn/shop/files/US-NL-3304Black_700x700.jpg?v=1705388882,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-nl-3304
+40,MEN'S SPORTS SHOES US-NL-3303,urbansole-footwear,"Rs.5,499",https://www.urbansole.com.pk/cdn/shop/files/US-NL-3303Black_700x700.jpg?v=1704705775,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-nl-3303
+41,SHOE MOC US-HR-3303,urbansole-footwear,"Current price
+
+Rs.3,849",https://www.urbansole.com.pk/cdn/shop/files/US-HR-3303Black_700x700.jpg?v=1705418666,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-hr-3303
+42,SHOE MOC US-HR-3302,urbansole-footwear,"Current price
+
+Rs.3,849",https://www.urbansole.com.pk/cdn/shop/files/US-HR-3302Black_700x700.jpg?v=1705418806,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-hr-3302
+43,SHOE MOC US-HR-3301,urbansole-footwear,"Current price
+
+Rs.3,849",https://www.urbansole.com.pk/cdn/shop/files/US-HR-3301Black_700x700.jpg?v=1705418867,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-hr-3301
+44,James US-GL-3104,urbansole-footwear,"Rs.7,999",https://www.urbansole.com.pk/cdn/shop/files/US-GL-3304Grey_700x700.jpg?v=1704716345,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-gl-3104
+45,MEN'S SPORTS SHOES US-EX-3252,urbansole-footwear,"Rs.11,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3352Black_700x700.jpg?v=1704716427,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3252
+46,MEN'S SPORTS SHOES US-EX-3203,urbansole-footwear,"Rs.13,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3203Grey_700x700.jpg?v=1704716519,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3203
+47,MEN'S SPORTS SHOES US-EX-3202,urbansole-footwear,"Rs.14,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3202Black_700x700.jpg?v=1704716642,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3202
+48,MEN'S SPORTS SHOES US-EX-3201,urbansole-footwear,"Rs.15,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3201Black_700x700.jpg?v=1704716742,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3201
+49,Dune EX-NK-3208,urbansole-footwear,"Current price
+
+Rs.15,999",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3208D-Grey_700x700.jpg?v=1704716810,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ex-nk-3208
+50,Rush EX-NK-3207,urbansole-footwear,"Current price
+
+Rs.15,999",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3207Lt-Grey_700x700.jpg?v=1704717209,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ex-nk-3207
+51,Pulse EX-NK-3206,urbansole-footwear,"Current price
+
+Rs.14,399",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3206Black_700x700.jpg?v=1704716914,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ex-nk-3206
+52,SNEAKER EX-NK-3205,urbansole-footwear,"Current price
+
+Rs.15,999",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3205Grey_703x700.jpg?v=1704717074,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ex-nk-3205
+53,SNEAKER EX-NK-3204,urbansole-footwear,"Current price
+
+Rs.14,799",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3204Grey_700x700.jpg?v=1704717138,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ex-nk-3204
+54,SNEAKER EX-NK-3203,urbansole-footwear,"Current price
+
+Rs.15,599",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3203Black_700x700.jpg?v=1704718341,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ex-nk-3203
+55,SNEAKER EX-NK-3202,urbansole-footwear,"Current price
+
+Rs.15,599",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3202Black_700x700.jpg?v=1704718392,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ex-nk-3202
+56,Raptor EX-NK-3201,urbansole-footwear,"Current price
+
+Rs.15,199",https://www.urbansole.com.pk/cdn/shop/files/EX-NK-3201Grey_700x700.jpg?v=1704718445,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ex-nk-3201
+57,Mayor US-TM-3303,urbansole-footwear,"Rs.9,999",https://www.urbansole.com.pk/cdn/shop/files/US-TM-3303Black_700x700.jpg?v=1705202891,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-tm-3303
+58,FORMAL SHOE US-PM-3302,urbansole-footwear,"Current price
+
+Rs.4,199",https://www.urbansole.com.pk/cdn/shop/files/US-PM-3302Black_700x700.jpg?v=1705404195,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-pm-3302
+59,Pulse US-EX-3210,urbansole-footwear,"Current price
+
+Rs.9,799",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3210Grey_700x700.jpg?v=1704718588,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3210
+60,Dune US-EX-3209,urbansole-footwear,"Rs.13,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3209Grey_700x700.jpg?v=1704718748,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3209
+61,Fury US-EX-3208,urbansole-footwear,"Rs.13,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3208Black_700x700.jpg?v=1704718863,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3208
+62,Blaze US-EX-3207,urbansole-footwear,"Rs.14,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3207Black_702x700.jpg?v=1704718985,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3207
+63,Raptor US-EX-3206,urbansole-footwear,"Rs.16,999",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3206Black_700x700.jpg?v=1704719244,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3206
+64,Rush US-EX-3204,urbansole-footwear,"Rs.13,499",https://www.urbansole.com.pk/cdn/shop/files/US-EX-3204Black_700x700.jpg?v=1704719664,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ex-3204
+65,Clod US-ST-3202,urbansole-footwear,"Rs.29,999",https://www.urbansole.com.pk/cdn/shop/files/US-ST-3202Navy_700x700.jpg?v=1705228281,https://www.urbansole.com.pk/collections/urbansole-footwear/products/clod-us-st-3202
+66,Sphere US-ST-3202,urbansole-footwear,"Rs.29,999",https://www.urbansole.com.pk/cdn/shop/files/US-ST-3202Grey_700x700.jpg?v=1705228246,https://www.urbansole.com.pk/collections/urbansole-footwear/products/sphere-us-st-3202
+67,Terrain US-ST-3201,urbansole-footwear,"Rs.29,999",https://www.urbansole.com.pk/cdn/shop/files/US-ST-3201Green_700x700.jpg?v=1705228230,https://www.urbansole.com.pk/collections/urbansole-footwear/products/terrain-us-st-3201
+68,Turf US-ST-3201,urbansole-footwear,"Rs.29,999",https://www.urbansole.com.pk/cdn/shop/files/US-ST-3201Black_700x700.jpg?v=1705228213,https://www.urbansole.com.pk/collections/urbansole-footwear/products/turf-us-st-3201
+69,Orb US-ST-3201,urbansole-footwear,"Rs.29,999",https://www.urbansole.com.pk/cdn/shop/files/US-ST-3201Beige_700x700.jpg?v=1705228165,https://www.urbansole.com.pk/collections/urbansole-footwear/products/orb-us-st-3201
+70,MEN'S SPORTS SHOES US-GL-3101,urbansole-footwear,"Rs.9,499",https://www.urbansole.com.pk/cdn/shop/files/US-GL-3101Grey_700x700.jpg?v=1704705940,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-gl-3101
+71,SHOE MOC US-HK-3103,urbansole-footwear,"Rs.6,999",https://www.urbansole.com.pk/cdn/shop/files/US-HK-3103Black_700x700.jpg?v=1705203291,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-hk-3103
+72,SHOE MOC US-HK-3101,urbansole-footwear,"Rs.6,999",https://www.urbansole.com.pk/cdn/shop/files/US-HK-3101D-Brown_700x700.jpg?v=1705203358,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-hk-3101
+73,Bromo US-TM-3302,urbansole-footwear,"Rs.11,999",https://www.urbansole.com.pk/cdn/shop/files/US-TM-3302Black_700x700.jpg?v=1705203418,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-tm-3302
+74,Olympus US-TM-3301,urbansole-footwear,"Rs.11,999",https://www.urbansole.com.pk/cdn/shop/files/US-TM-3301Black_700x700.jpg?v=1705203584,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-tm-3301
+75,SHOE US-HB-3101,urbansole-footwear,"Current price
+
+Rs.5,249",https://www.urbansole.com.pk/cdn/shop/files/US-HB-3101Grey_700x700.jpg?v=1705203641,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-hb-3101
+76,Volcano EX-PG-3203,urbansole-footwear,"Current price
+
+Rs.13,199",https://www.urbansole.com.pk/cdn/shop/files/EX-PG-3203Black_700x700.jpg?v=1704719808,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ex-pg-3203
+77,MEN'S SPORTS SHOES EX-PG-3202,urbansole-footwear,"Current price
+
+Rs.13,199",https://www.urbansole.com.pk/cdn/shop/files/EX-PG-3202Black_700x700.jpg?v=1704719937,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ex-pg-3202
+78,Horizon EX-PG-3201,urbansole-footwear,"Current price
+
+Rs.14,399",https://www.urbansole.com.pk/cdn/shop/files/EX-PG-3201Black_702x700.jpg?v=1704714888,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ex-pg-3201
+79,Eclipse US-GV-3102,urbansole-footwear,"Current price
+
+Rs.6,999",https://www.urbansole.com.pk/cdn/shop/files/US-GV-3102Black_700x700.jpg?v=1705203699,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-gv-3102
+80,Dice PC-JK-3307,urbansole-footwear,"Rs.6,195",https://www.urbansole.com.pk/cdn/shop/files/PC-JK-3307Black_700x700.jpg?v=1705418938,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-jk-3307
+81,Cosmora US-FX-3105,urbansole-footwear,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3105M-Brown_700x700.jpg?v=1704704124,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-fx-3105
+82,Sailor US-FX-3104,urbansole-footwear,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3104Black_700x700.jpg?v=1704704752,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-fx-3104
+83,Imperium US-FX-3103,urbansole-footwear,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3103Black_b8d2890a-9249-4471-b5eb-fec4b6c1134b_700x700.jpg?v=1704704515,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-fx-3103
+84,Czar US-FX-3102,urbansole-footwear,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3102Black_a98aced0-8faa-423c-85d5-903d851e2503_700x700.jpg?v=1704449651,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-fx-3102
+85,Victor US-FX-3101,urbansole-footwear,"Current price
+
+Rs.5,949",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3101Tan_700x700.jpg?v=1704704426,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-fx-3101
+86,Explorer US-GV-3152,urbansole-footwear,"Rs.9,999",https://www.urbansole.com.pk/cdn/shop/files/US-GV-3152Black_700x700.jpg?v=1705203790,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-gv-3152
+87,Gust US-GV-3151,urbansole-footwear,"Rs.9,999",https://www.urbansole.com.pk/cdn/shop/files/US-GV-3151Navy_700x700.jpg?v=1705203881,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-gv-3151
+88,Roadster US-GV-3103,urbansole-footwear,"Current price
+
+Rs.6,999",https://www.urbansole.com.pk/cdn/shop/files/US-GV-3103Olive_700x700.jpg?v=1705204080,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-gv-3103
+89,Wanderer US-GV-3101,urbansole-footwear,"Rs.11,999",https://www.urbansole.com.pk/cdn/shop/files/US-GV-3101Black_700x700.jpg?v=1705204139,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-gv-3101
+90,Lawrence PC-ST-3105,urbansole-footwear,"Rs.8,195",https://www.urbansole.com.pk/cdn/shop/files/PC-ST-3105Beige_700x700.jpg?v=1705420812,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-st-3105
+91,Vincent PC-ST-3104,urbansole-footwear,"Rs.8,195",https://www.urbansole.com.pk/cdn/shop/files/PC-ST-3104Black_700x700.jpg?v=1705419070,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-st-3104
+92,Regal PC-ST-3103,urbansole-footwear,"Current price
+
+Rs.5,737",https://www.urbansole.com.pk/cdn/shop/files/PC-ST-3103Black_700x700.jpg?v=1705420428,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-st-3103
+93,Winston PC-ST-3102,urbansole-footwear,"Rs.8,195",https://www.urbansole.com.pk/cdn/shop/files/PC-ST-3102Black_700x700.jpg?v=1705420363,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-st-3102
+94,Arthur PC-ST-3101,urbansole-footwear,"Rs.8,195",https://www.urbansole.com.pk/cdn/shop/files/PC-ST-3101Black_700x700.jpg?v=1705419176,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-st-3101
+95,Lord PC-JK-3308,urbansole-footwear,"Rs.6,195",https://www.urbansole.com.pk/cdn/shop/files/PC-JK-3308Black_700x700.jpg?v=1705419238,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-jk-3308
+96,PESHAWARI US-PW-2334,urbansole-footwear,"Current price
+
+Rs.3,289",https://www.urbansole.com.pk/cdn/shop/files/US-PW-2334Black_700x700.jpg?v=1705229696,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-pw-2334
+97,PESHAWARI US-PW-2331,urbansole-footwear,"Current price
+
+Rs.3,639",https://www.urbansole.com.pk/cdn/shop/files/US-PW-2331Black_700x700.jpg?v=1705229769,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-pw-2331
+98,PESHAWARI US-PW-2104,urbansole-footwear,"Current price
+
+Rs.4,339",https://www.urbansole.com.pk/cdn/shop/files/US-PW-2104Black_700x700.jpg?v=1705229842,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-pw-2104
+99,SANDAL US-ML-2102,urbansole-footwear,"Rs.5,899",https://www.urbansole.com.pk/cdn/shop/files/US-ML-2102Black_700x700.jpg?v=1705489252,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ml-2102
+100,SANDAL US-ML-2101,urbansole-footwear,"Rs.6,399",https://www.urbansole.com.pk/cdn/shop/files/US-ML-2101Black_700x700.jpg?v=1705489292,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ml-2101
+101,SANDAL RK-2302,urbansole-footwear,"Current price
+
+Rs.3,287",https://www.urbansole.com.pk/cdn/shop/files/RK-2302Char-Grey_700x700.jpg?v=1705489354,https://www.urbansole.com.pk/collections/urbansole-footwear/products/rk-2302
+102,SANDAL RF-2153,urbansole-footwear,"Rs.6,199",https://www.urbansole.com.pk/cdn/shop/files/RF-2153Black_700x700.jpg?v=1705489406,https://www.urbansole.com.pk/collections/urbansole-footwear/products/rf-2153
+103,SANDAL RF-2152,urbansole-footwear,"Rs.6,199",https://www.urbansole.com.pk/cdn/shop/files/RF-2152Black_700x700.jpg?v=1705489536,https://www.urbansole.com.pk/collections/urbansole-footwear/products/rf-2152
+104,Atticus PC-AB-2101,urbansole-footwear,"Current price
+
+Rs.3,948",https://www.urbansole.com.pk/cdn/shop/files/PC-AB-2101Black_700x700.jpg?v=1705419342,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-ab-2101
+105,SANDAL KT-2153,urbansole-footwear,"Current price
+
+Rs.2,800",https://www.urbansole.com.pk/cdn/shop/files/KT-2153Navy_700x700.jpg?v=1705489874,https://www.urbansole.com.pk/collections/urbansole-footwear/products/kt-2153
+106,Caspian FM-3303,urbansole-footwear,"Current price
+
+Rs.5,179",https://www.urbansole.com.pk/cdn/shop/files/FM-3303Black_700x700.jpg?v=1705416604,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-3303
+107,Versátil FM-3302,urbansole-footwear,"Current price
+
+Rs.5,179",https://www.urbansole.com.pk/cdn/shop/files/FM-3302Black_700x700.jpg?v=1705416695,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-3302
+108,Malve FM-3301,urbansole-footwear,"Rs.7,399",https://www.urbansole.com.pk/cdn/shop/files/FM-3301Black_700x700.jpg?v=1705416759,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-3301
+109,SLIDER US-PL-2302,urbansole-footwear,"Rs.2,399",https://www.urbansole.com.pk/cdn/shop/files/US-PL-2302Blue-White1_700x700.jpg?v=1705139910,https://www.urbansole.com.pk/collections/urbansole-footwear/products/slider-us-pl-2302
+110,PESHAWARI PC-NR-3101,urbansole-footwear,"Current price
+
+Rs.6,507",https://www.urbansole.com.pk/cdn/shop/files/PC-NR-3101Burgandy_700x700.jpg?v=1705238630,https://www.urbansole.com.pk/collections/urbansole-footwear/products/peshawari-pc-nr-3101
+111,SANDAL US-AX-3103,urbansole-footwear,"Current price
+
+Rs.5,529",https://www.urbansole.com.pk/cdn/shop/files/US-AX-3103B-Caramel_700x700.jpg?v=1705489979,https://www.urbansole.com.pk/collections/urbansole-footwear/products/sandal-us-ax-3103
+112,PESHAWARI US-PW-2333,urbansole-footwear,"Current price
+
+Rs.3,639",https://www.urbansole.com.pk/cdn/shop/files/US-PW-2333Brown_700x700.jpg?v=1705230062,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-pw-2333
+113,SANDAL US-AX-3104,urbansole-footwear,"Rs.7,999",https://www.urbansole.com.pk/cdn/shop/files/US-AX-3104Timberland_700x700.jpg?v=1705490097,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ax-3104
+114,PESHAWARI PC-NR-3101,urbansole-footwear,"Current price
+
+Rs.6,507",https://www.urbansole.com.pk/cdn/shop/files/PC-NR-3101Tan_845113e6-52eb-4066-b5cb-a98a63c29870_700x700.jpg?v=1705238672,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-nr-3101
+115,SANDAL US-AX-3102,urbansole-footwear,"Rs.7,999",https://www.urbansole.com.pk/cdn/shop/files/US-AX-3102Black_700x700.jpg?v=1705490383,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ax-3102
+116,SANDAL US-AX-3101,urbansole-footwear,"Rs.7,999",https://www.urbansole.com.pk/cdn/shop/files/US-AX-3101Black_700x700.jpg?v=1705490634,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-ax-3101
+117,PESHAWARI PC-RV-3301,urbansole-footwear,"Rs.10,995",https://www.urbansole.com.pk/cdn/shop/files/PC-RV-3301Black_700x700.jpg?v=1705238840,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-rv-3301
+118,SANDAL PC-RK-2303,urbansole-footwear,"Current price
+
+Rs.3,637",https://www.urbansole.com.pk/cdn/shop/files/PC-RK-2303Tan_700x700.jpg?v=1705493176,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-rk-2303
+119,PESHAWARI US-PW-2105,urbansole-footwear,"Rs.6,799",https://www.urbansole.com.pk/cdn/shop/files/US-PW-2105Black_700x700.jpg?v=1705230141,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-pw-2105
+120,SLIPPER PC-MR-2157,urbansole-footwear,"Rs.5,895",https://www.urbansole.com.pk/cdn/shop/files/PC-MR-2157D-Brown_700x700.jpg?v=1705239856,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-mr-2157
+121,SANDAL PC-MR-2108,urbansole-footwear,"Rs.6,595",https://www.urbansole.com.pk/cdn/shop/files/PC-MR-2108D-Brown_700x700.jpg?v=1705493239,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-mr-2108
+122,SLIDER US-PL-2304,urbansole-footwear,"Rs.1,999",https://www.urbansole.com.pk/cdn/shop/files/US-PL-2304Blue-White1_700x700.jpg?v=1705141659,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-pl-2304
+123,SLIDER US-PL-2302,urbansole-footwear,"Rs.2,399",https://www.urbansole.com.pk/cdn/shop/files/US-PL-2302Black-White_700x700.jpg?v=1705140264,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-pl-2302
+124,SLIDER US-PL-2301,urbansole-footwear,"Rs.2,199",https://www.urbansole.com.pk/cdn/shop/files/US-PL-2301Black-Red_700x700.jpg?v=1705140329,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-pl-2301
+125,SLIPPER US-SR-2351,urbansole-footwear,"Current price
+
+Rs.3,079",https://www.urbansole.com.pk/cdn/shop/files/US-SR-2351Black_700x700.jpg?v=1705239957,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-sr-2351
+126,SANDAL US-SR-2303,urbansole-footwear,"Current price
+
+Rs.3,429",https://www.urbansole.com.pk/cdn/shop/files/US-SR-2303Black_700x700.jpg?v=1705493297,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-sr-2303
+127,SANDAL US-SR-2302,urbansole-footwear,"Current price
+
+Rs.3,429",https://www.urbansole.com.pk/cdn/shop/files/US-SR-2302Black_700x700.jpg?v=1705493452,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-sr-2302
+128,SANDAL US-SR-2301,urbansole-footwear,"Current price
+
+Rs.3,429",https://www.urbansole.com.pk/cdn/shop/files/US-SR-2301Black_700x700.jpg?v=1705493495,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-sr-2301
+129,SLIPPER US-AT-2161,urbansole-footwear,"Rs.5,299",https://www.urbansole.com.pk/cdn/shop/files/US-AT-2161D-Brown_700x700.jpg?v=1705240032,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-at-2161
+130,SLIPPER US-AT-2160,urbansole-footwear,"Rs.5,299",https://www.urbansole.com.pk/cdn/shop/files/US-AT-2160Black_700x700.jpg?v=1705240090,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-at-2160
+131,SLIPPER PC-MR-2156,urbansole-footwear,"Rs.5,895",https://www.urbansole.com.pk/cdn/shop/products/PC-MR-2156Black_1_1050x700.webp?v=1677154978,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-mr-2156
+132,SANDAL PC-MR-2109,urbansole-footwear,"Rs.6,595",https://www.urbansole.com.pk/cdn/shop/files/PC-MR-2109D-Brown_700x700.jpg?v=1705493558,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-mr-2109
+133,SLIPPER PC-BE-2358,urbansole-footwear,"Rs.5,395",https://www.urbansole.com.pk/cdn/shop/files/PC-BE-2358Brown_700x700.jpg?v=1705240311,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-be-2358
+134,SANDAL PC-BE-2308,urbansole-footwear,"Current price
+
+Rs.4,197",https://www.urbansole.com.pk/cdn/shop/files/PC-BE-2308Black_700x700.jpg?v=1705493631,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-be-2308
+135,SANDAL PC-BE-2307,urbansole-footwear,"Current price
+
+Rs.4,197",https://www.urbansole.com.pk/cdn/shop/files/PC-BE-2307Black_700x700.jpg?v=1705493652,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-be-2307
+136,SANDAL PC-BE-2306,urbansole-footwear,"Rs.5,995",https://www.urbansole.com.pk/cdn/shop/files/PC-BE-2306Black_700x700.jpg?v=1705493811,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-be-2306
+137,SHOE MOC US-UM-2355,urbansole-footwear,"Current price
+
+Rs.3,989",https://www.urbansole.com.pk/cdn/shop/files/US-UM-2355Black_700x700.jpg?v=1705419404,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-um-2355
+138,SHOE MOC US-UM-2354,urbansole-footwear,"Rs.5,699",https://www.urbansole.com.pk/cdn/shop/files/US-UM-2354Tan_700x700.jpg?v=1705419506,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-um-2354
+139,SHOE TR-2101,urbansole-footwear,"Current price
+
+Rs.7,699",https://www.urbansole.com.pk/cdn/shop/files/TR-2101LedGrey_700x700.jpg?v=1705061163,https://www.urbansole.com.pk/collections/urbansole-footwear/products/tr-2101
+140,SHOE MOC PC-AB-2103,urbansole-footwear,"Current price
+
+Rs.3,948",https://www.urbansole.com.pk/cdn/shop/files/PC-AB-2103Black_700x700.jpg?v=1705419657,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-ab-2103
+141,SHOE MOC US-UM-2353,urbansole-footwear,"Current price
+
+Rs.3,989",https://www.urbansole.com.pk/cdn/shop/files/US-UM-2353Tan_700x700.jpg?v=1705419754,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-um-2353
+142,SHOE MOC US-UM-2352,urbansole-footwear,"Current price
+
+Rs.3,989",https://www.urbansole.com.pk/cdn/shop/files/US-UM-2352Tan_700x700.jpg?v=1705419827,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-um-2352
+143,SHOE MOC US-UM-2351,urbansole-footwear,"Rs.5,699",https://www.urbansole.com.pk/cdn/shop/files/US-UM-2351Black_700x700.jpg?v=1705419898,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-um-2351
+144,SHOE RC-2113,urbansole-footwear,"Current price
+
+Rs.4,549",https://www.urbansole.com.pk/cdn/shop/files/RC-2113Beige_700x700.jpg?v=1705204307,https://www.urbansole.com.pk/collections/urbansole-footwear/products/rc-2113
+145,SHOE RC-2112,urbansole-footwear,"Current price
+
+Rs.4,549",https://www.urbansole.com.pk/cdn/shop/files/RC-2112Camello_700x700.jpg?v=1705204454,https://www.urbansole.com.pk/collections/urbansole-footwear/products/rc-2112
+146,SHOE RC-2110,urbansole-footwear,"Current price
+
+Rs.4,549",https://www.urbansole.com.pk/cdn/shop/files/RC-2110Black_700x700.jpg?v=1705204652,https://www.urbansole.com.pk/collections/urbansole-footwear/products/rc-2110
+147,SHOE RC-2109,urbansole-footwear,"Current price
+
+Rs.4,549",https://www.urbansole.com.pk/cdn/shop/files/RC-2109D-Brown_700x700.jpg?v=1705204734,https://www.urbansole.com.pk/collections/urbansole-footwear/products/rc-2109
+148,FRANCESCO PC-RC-2309,urbansole-footwear,"Current price
+
+Rs.11,197",https://www.urbansole.com.pk/cdn/shop/files/PC-RC-2309Black_700x700.jpg?v=1705416886,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-rc-2309
+149,ALBERTO PC-RC-2308,urbansole-footwear,"Current price
+
+Rs.11,197",https://www.urbansole.com.pk/cdn/shop/files/PC-RC-2308Black_700x700.jpg?v=1705416941,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-rc-2308
+150,FABIO PC-RC-2307,urbansole-footwear,"Current price
+
+Rs.11,197",https://www.urbansole.com.pk/cdn/shop/files/PC-RC-2307Black_700x700.jpg?v=1705417061,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-rc-2307
+151,PHILIP PC-RC-2306,urbansole-footwear,"Current price
+
+Rs.11,197",https://www.urbansole.com.pk/cdn/shop/files/PC-RC-2306Char-Grey_700x700.jpg?v=1705417126,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-rc-2306
+152,BACCO PC-RC-2305,urbansole-footwear,"Current price
+
+Rs.9,797",https://www.urbansole.com.pk/cdn/shop/files/PC-RC-2305Black_700x700.jpg?v=1705417165,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-rc-2305
+153,RENATO PC-RC-2304,urbansole-footwear,"Current price
+
+Rs.9,797",https://www.urbansole.com.pk/cdn/shop/files/PC-RC-2304Char-Grey_700x700.jpg?v=1705417220,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-rc-2304
+154,MARZIO PC-RC-2303,urbansole-footwear,"Current price
+
+Rs.9,797",https://www.urbansole.com.pk/cdn/shop/files/PC-RC-2303Char-Grey_700x700.jpg?v=1705417267,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-rc-2303
+155,JACOB PC-RC-2302,urbansole-footwear,"Current price
+
+Rs.9,797",https://www.urbansole.com.pk/cdn/shop/files/PC-RC-2302Tan_700x700.jpg?v=1705417321,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-rc-2302
+156,RICARDO PC-RC-2301,urbansole-footwear,"Current price
+
+Rs.11,197",https://www.urbansole.com.pk/cdn/shop/files/PC-RC-2301Black_700x700.jpg?v=1705417359,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pc-rc-2301
+157,BOOT IT-2109,urbansole-footwear,"Current price
+
+Rs.8,397",https://www.urbansole.com.pk/cdn/shop/files/IT-2109Windy_700x700.jpg?v=1705061397,https://www.urbansole.com.pk/collections/urbansole-footwear/products/it-2109
+158,BOOT IT-2108,urbansole-footwear,"Current price
+
+Rs.8,397",https://www.urbansole.com.pk/cdn/shop/files/IT-2108Black_700x700.jpg?v=1705061494,https://www.urbansole.com.pk/collections/urbansole-footwear/products/it-2108
+159,SHOE FM-2329,urbansole-footwear,"Current price
+
+Rs.6,000",https://www.urbansole.com.pk/cdn/shop/files/FM-2329Black_700x700.jpg?v=1705418378,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-2329
+160,SHOE RC-2111,urbansole-footwear,"Current price
+
+Rs.4,549",https://www.urbansole.com.pk/cdn/shop/files/RC-2111Black_700x700.jpg?v=1705204819,https://www.urbansole.com.pk/collections/urbansole-footwear/products/rc-2111
+161,SHOE FM-2323,urbansole-footwear,"Current price
+
+Rs.6,647",https://www.urbansole.com.pk/cdn/shop/files/FM-2323Black_700x700.jpg?v=1705418316,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-2323
+162,SHOE SS-2307,urbansole-footwear,"Current price
+
+Rs.5,039",https://www.urbansole.com.pk/cdn/shop/files/SS-2307Black_700x700.jpg?v=1705204883,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ss-2307
+163,SHOE SS-2306,urbansole-footwear,"Current price
+
+Rs.4,339",https://www.urbansole.com.pk/cdn/shop/files/SS-2306Black_700x700.jpg?v=1705204941,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ss-2306
+164,SHOE MOC KT-2106,urbansole-footwear,"Current price
+
+Rs.4,339",https://www.urbansole.com.pk/cdn/shop/files/KT-2106Black_700x700.jpg?v=1705205118,https://www.urbansole.com.pk/collections/urbansole-footwear/products/kt-2106
+165,SHOE KT-2105,urbansole-footwear,"Current price
+
+Rs.4,339",https://www.urbansole.com.pk/cdn/shop/files/KT-2105Black_700x700.jpg?v=1705205232,https://www.urbansole.com.pk/collections/urbansole-footwear/products/kt-2105
+166,SHOE MOC fm-2357,urbansole-footwear,"Rs.8,195",https://www.urbansole.com.pk/cdn/shop/files/FM-2357Black_700x700.jpg?v=1705418260,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-2357
+167,LOAFER JK-2306,urbansole-footwear,"Current price
+
+Rs.4,337",https://www.urbansole.com.pk/cdn/shop/files/JK-2306Black_700x700.jpg?v=1705420266,https://www.urbansole.com.pk/collections/urbansole-footwear/products/jk-2306
+168,LOAFER JK-2305,urbansole-footwear,"Current price
+
+Rs.4,337",https://www.urbansole.com.pk/cdn/shop/files/JK-2305Black_700x700.jpg?v=1705420131,https://www.urbansole.com.pk/collections/urbansole-footwear/products/jk-2305
+169,LOAFER JK-2304,urbansole-footwear,"Rs.6,195",https://www.urbansole.com.pk/cdn/shop/files/JK-2304Black_700x700.jpg?v=1705421707,https://www.urbansole.com.pk/collections/urbansole-footwear/products/jk-2304
+170,LOAFER JK-2303,urbansole-footwear,"Rs.6,195",https://www.urbansole.com.pk/cdn/shop/files/JK-2303Black_700x700.jpg?v=1705420976,https://www.urbansole.com.pk/collections/urbansole-footwear/products/jk-2303
+171,LOAFER JK-2302,urbansole-footwear,"Current price
+
+Rs.4,337",https://www.urbansole.com.pk/cdn/shop/files/JK-2302Black_700x700.jpg?v=1705421107,https://www.urbansole.com.pk/collections/urbansole-footwear/products/jk-2302
+172,LOAFER JK-2301,urbansole-footwear,"Rs.6,195",https://www.urbansole.com.pk/cdn/shop/files/JK-2301Black_700x700.jpg?v=1705421231,https://www.urbansole.com.pk/collections/urbansole-footwear/products/jk-2301
+173,SHOE FM-2324,urbansole-footwear,"Rs.9,495",https://www.urbansole.com.pk/cdn/shop/files/FM-2324Black_700x700.jpg?v=1705418223,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-2324
+174,SHOE FM-2322,urbansole-footwear,"Rs.9,495",https://www.urbansole.com.pk/cdn/shop/files/FM-2322Black_700x700.jpg?v=1705418181,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-2322
+175,SHOE FM-2320,urbansole-footwear,"Rs.9,495",https://www.urbansole.com.pk/cdn/shop/files/FM-2320Black_700x700.jpg?v=1705418144,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-2320
+176,HAVANA US-1303,urbansole-footwear,"Current price
+
+Rs.3,289",https://www.urbansole.com.pk/cdn/shop/files/US-1303Black_700x700.jpg?v=1705493695,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-1303
+177,KINGSTON US-1302,urbansole-footwear,"Current price
+
+Rs.3,289",https://www.urbansole.com.pk/cdn/shop/files/US-1302Black_700x700.jpg?v=1705493989,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-1302
+178,MONTEGO US-1301,urbansole-footwear,"Current price
+
+Rs.3,289",https://www.urbansole.com.pk/cdn/shop/files/US-1301Black_700x700.jpg?v=1705494051,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-1301
+179,SLIPPER RK-2351,urbansole-footwear,"Current price
+
+Rs.3,289",https://www.urbansole.com.pk/cdn/shop/files/RK-2351Tan_700x700.jpg?v=1705240289,https://www.urbansole.com.pk/collections/urbansole-footwear/products/rk-2351
+180,SANDAL RK-2301,urbansole-footwear,"Current price
+
+Rs.3,287",https://www.urbansole.com.pk/cdn/shop/files/RK-2301Black_700x700.jpg?v=1705494263,https://www.urbansole.com.pk/collections/urbansole-footwear/products/rk-2301
+181,PESHEWARI PW-0102,urbansole-footwear,"Rs.6,499",https://www.urbansole.com.pk/cdn/shop/files/PW-0102Black_700x700.jpg?v=1705388940,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pw-0102
+182,SANDAL KL-1102,urbansole-footwear,"Rs.6,395",https://www.urbansole.com.pk/cdn/shop/files/KL-1102Camello_700x700.jpg?v=1705495998,https://www.urbansole.com.pk/collections/urbansole-footwear/products/kl-1102
+183,SANDAL MR-2154,urbansole-footwear,"Current price
+
+Rs.4,127",https://www.urbansole.com.pk/cdn/shop/files/MR-2154Black_700x700.jpg?v=1705240430,https://www.urbansole.com.pk/collections/urbansole-footwear/products/mr-2154
+184,SANDAL MR-2107,urbansole-footwear,"Rs.6,595",https://www.urbansole.com.pk/cdn/shop/files/MR-2107Black_700x700.jpg?v=1705494334,https://www.urbansole.com.pk/collections/urbansole-footwear/products/mr-2107
+185,SANDAL MR-2106,urbansole-footwear,"Current price
+
+Rs.4,617",https://www.urbansole.com.pk/cdn/shop/files/MR-2106Black_700x700.jpg?v=1705494439,https://www.urbansole.com.pk/collections/urbansole-footwear/products/mr-2106
+186,SANDAL MR-2105,urbansole-footwear,"Current price
+
+Rs.4,617",https://www.urbansole.com.pk/cdn/shop/files/MR-2105Windy_700x700.jpg?v=1705495496,https://www.urbansole.com.pk/collections/urbansole-footwear/products/mr-2105
+187,SLIPPER KL-2157,urbansole-footwear,"Rs.5,895",https://www.urbansole.com.pk/cdn/shop/files/KL-2157Tan_700x700.jpg?v=1705240415,https://www.urbansole.com.pk/collections/urbansole-footwear/products/kl-2157
+188,SLIPPER KL-2156,urbansole-footwear,"Rs.5,895",https://www.urbansole.com.pk/cdn/shop/files/KL-2156Brown_700x700.jpg?v=1705240792,https://www.urbansole.com.pk/collections/urbansole-footwear/products/kl-2156
+189,SANDAL KL-2107,urbansole-footwear,"Rs.6,395",https://www.urbansole.com.pk/cdn/shop/files/KL-2107Windy_700x700.jpg?v=1705495335,https://www.urbansole.com.pk/collections/urbansole-footwear/products/kl-2107
+190,SANDAL KL-2106,urbansole-footwear,"Rs.6,495",https://www.urbansole.com.pk/cdn/shop/files/KL-2106Camello_700x700.jpg?v=1705495427,https://www.urbansole.com.pk/collections/urbansole-footwear/products/kl-2106
+191,SLIPPER AT-2159,urbansole-footwear,"Rs.5,299",https://www.urbansole.com.pk/cdn/shop/files/AT-2159Black_700x700.jpg?v=1705240855,https://www.urbansole.com.pk/collections/urbansole-footwear/products/at-2159
+192,SLIPPER AT-2158,urbansole-footwear,"Rs.5,299",https://www.urbansole.com.pk/cdn/shop/files/AT-2158D-Brown_700x700.jpg?v=1705240981,https://www.urbansole.com.pk/collections/urbansole-footwear/products/at-2158
+193,SLIPPER AT-2157,urbansole-footwear,"Rs.4,999",https://www.urbansole.com.pk/cdn/shop/files/AT-2157Camello_700x700.jpg?v=1705241319,https://www.urbansole.com.pk/collections/urbansole-footwear/products/at-2157
+194,SLIPPER AT-2156,urbansole-footwear,"Current price
+
+Rs.3,499",https://www.urbansole.com.pk/cdn/shop/files/AT-2156D-Brown_700x700.jpg?v=1705241270,https://www.urbansole.com.pk/collections/urbansole-footwear/products/at-2156
+195,SANDAL AT-2110,urbansole-footwear,"Rs.5,599",https://www.urbansole.com.pk/cdn/shop/files/AT-2110Black_700x700.jpg?v=1705495535,https://www.urbansole.com.pk/collections/urbansole-footwear/products/at-2110
+196,SANDAL AT-2106,urbansole-footwear,"Rs.5,999",https://www.urbansole.com.pk/cdn/shop/files/AT-2106D-Brown_700x700.jpg?v=1705495669,https://www.urbansole.com.pk/collections/urbansole-footwear/products/at-2106
+197,PESHEWARI PW-0101,urbansole-footwear,"Rs.6,499",https://www.urbansole.com.pk/cdn/shop/files/PW-0101Black_700x700.jpg?v=1705230270,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pw-0101
+198,SANDAL AT-0103,urbansole-footwear,"Rs.5,599",https://www.urbansole.com.pk/cdn/shop/files/AT-0103Coffee_700x700.jpg?v=1705495751,https://www.urbansole.com.pk/collections/urbansole-footwear/products/at-0103
+199,SHOE MOC DM-1110,urbansole-footwear,"Current price
+
+Rs.3,989",https://www.urbansole.com.pk/cdn/shop/files/DM-1110Black_700x700.jpg?v=1705421517,https://www.urbansole.com.pk/collections/urbansole-footwear/products/dm-1110
+200,SHOE MOC DM-1109,urbansole-footwear,"Current price
+
+Rs.3,989",https://www.urbansole.com.pk/cdn/shop/files/DM-1109Camello_700x700.jpg?v=1705421477,https://www.urbansole.com.pk/collections/urbansole-footwear/products/dm-1109
+201,SANDAL BE-2305,urbansole-footwear,"Current price
+
+Rs.3,917",https://www.urbansole.com.pk/cdn/shop/files/BE-2305Brown_700x700.jpg?v=1705495820,https://www.urbansole.com.pk/collections/urbansole-footwear/products/be-2305
+202,SHOE MOC KT-1304,urbansole-footwear,"Rs.6,199",https://www.urbansole.com.pk/cdn/shop/files/KT-1304Black_700x700.jpg?v=1705205600,https://www.urbansole.com.pk/collections/urbansole-footwear/products/kt-1304
+203,SHOE MOC KT-1303,urbansole-footwear,"Rs.6,199",https://www.urbansole.com.pk/cdn/shop/files/KT-1303Black_700x700.jpg?v=1705205671,https://www.urbansole.com.pk/collections/urbansole-footwear/products/kt-1303
+204,THALO FM-1319,urbansole-footwear,"Current price
+
+Rs.5,947",https://www.urbansole.com.pk/cdn/shop/files/FM-1319Black_700x700.jpg?v=1705418103,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-1319
+205,VIGEN FM-1316,urbansole-footwear,"Rs.8,495",https://www.urbansole.com.pk/cdn/shop/files/FM-1316Black_700x700.jpg?v=1705418018,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-1316
+206,HOSPER FM-1315,urbansole-footwear,"Rs.8,495",https://www.urbansole.com.pk/cdn/shop/files/FM-1315Tan_700x700.jpg?v=1705417954,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-1315
+207,MIAR FM-1317,urbansole-footwear,"Rs.8,495",https://www.urbansole.com.pk/cdn/shop/files/FM-1317Char-Grey_700x700.jpg?v=1705488422,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-1317
+208,SKARDU TR-7155,urbansole-footwear,"Current price
+
+Rs.7,699",https://www.urbansole.com.pk/cdn/shop/files/TR-7155Coffee_700x700.jpg?v=1705066611,https://www.urbansole.com.pk/collections/urbansole-footwear/products/tr-7155a
+209,BOOT IT-1104,urbansole-footwear,"Current price
+
+Rs.8,397",https://www.urbansole.com.pk/cdn/shop/files/IT-1104Burgandy_700x700.jpg?v=1705063820,https://www.urbansole.com.pk/collections/urbansole-footwear/products/it-1104
+210,KARAMBAR IT-1103,urbansole-footwear,"Current price
+
+Rs.8,397",https://www.urbansole.com.pk/cdn/shop/files/IT-1103BLACK_700x700.jpg?v=1705063693,https://www.urbansole.com.pk/collections/urbansole-footwear/products/it-1103
+211,SIGAL IT-1102,urbansole-footwear,"Current price
+
+Rs.8,397",https://www.urbansole.com.pk/cdn/shop/files/IT-1102D.BROWN_700x700.jpg?v=1705063596,https://www.urbansole.com.pk/collections/urbansole-footwear/products/it-1102
+212,ULTAR IT-1101,urbansole-footwear,"Current price
+
+Rs.8,397",https://www.urbansole.com.pk/cdn/shop/files/IT-1101D.BROWN_700x700.jpg?v=1705063491,https://www.urbansole.com.pk/collections/urbansole-footwear/products/it-1101
+213,UDREN TR-1103,urbansole-footwear,"Current price
+
+Rs.7,209",https://www.urbansole.com.pk/cdn/shop/files/TR-1103BARK_700x700.jpg?v=1705061901,https://www.urbansole.com.pk/collections/urbansole-footwear/products/tr-1103
+214,BUNI TR-1102,urbansole-footwear,"Current price
+
+Rs.7,699",https://www.urbansole.com.pk/cdn/shop/files/TR-1102BARK_700x700.jpg?v=1705061790,https://www.urbansole.com.pk/collections/urbansole-footwear/products/tr-1102
+215,CETUS SS-1304,urbansole-footwear,"Current price
+
+Rs.4,339",https://www.urbansole.com.pk/cdn/shop/files/SS-1304Black_700x700.jpg?v=1705228014,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ss-1304
+216,MENSA DM-1106,urbansole-footwear,"Current price
+
+Rs.4,339",https://www.urbansole.com.pk/cdn/shop/files/DM-1106Black_700x700.jpg?v=1705421423,https://www.urbansole.com.pk/collections/urbansole-footwear/products/dm-1106
+217,SHOE RC-0106,urbansole-footwear,"Current price
+
+Rs.3,849",https://www.urbansole.com.pk/cdn/shop/files/RC-0106Camello_700x700.jpg?v=1705206266,https://www.urbansole.com.pk/collections/urbansole-footwear/products/rc-0106
+218,SHOE FM-0353,urbansole-footwear,"Current price
+
+Rs.4,098",https://www.urbansole.com.pk/cdn/shop/files/FM-0353Brown_700x700.jpg?v=1705417899,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-0353
+219,SHOE MOC DM-1105,urbansole-footwear,"Rs.6,199",https://www.urbansole.com.pk/cdn/shop/files/DM-1105Timberland_700x700.jpg?v=1705421358,https://www.urbansole.com.pk/collections/urbansole-footwear/products/dm-1105
+220,CYGNUS DM-1104,urbansole-footwear,"Rs.6,199",https://www.urbansole.com.pk/cdn/shop/files/DM-1104Black_700x700.jpg?v=1705420733,https://www.urbansole.com.pk/collections/urbansole-footwear/products/dm-1104
+221,SERPENS SS-1302,urbansole-footwear,"Current price
+
+Rs.5,039",https://www.urbansole.com.pk/cdn/shop/files/SS-1302Black_700x700.jpg?v=1705206518,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ss-1302
+222,STAR MR-1151,urbansole-footwear,"Rs.5,895",https://www.urbansole.com.pk/cdn/shop/files/MR-1151Black_700x700.jpg?v=1705488467,https://www.urbansole.com.pk/collections/urbansole-footwear/products/mr-1151
+223,JUBILINT BE-1303,urbansole-footwear,"Current price
+
+Rs.3,917",https://www.urbansole.com.pk/cdn/shop/files/BE-1303Black_700x700.jpg?v=1705495855,https://www.urbansole.com.pk/collections/urbansole-footwear/products/be-1303
+224,MOSS MR-1102,urbansole-footwear,"Rs.6,995",https://www.urbansole.com.pk/cdn/shop/files/MR-1102Black_700x700.jpg?v=1705495886,https://www.urbansole.com.pk/collections/urbansole-footwear/products/mr-1102
+225,ELATED BE-1304,urbansole-footwear,"Current price
+
+Rs.3,917",https://www.urbansole.com.pk/cdn/shop/files/BE-1304Tan_700x700.jpg?v=1705495919,https://www.urbansole.com.pk/collections/urbansole-footwear/products/be-1304
+226,TIGER KL-1101,urbansole-footwear,"Rs.6,395",https://www.urbansole.com.pk/cdn/shop/files/KL-1101Black_700x700.jpg?v=1705495969,https://www.urbansole.com.pk/collections/urbansole-footwear/products/kl-1101
+227,SLIPPER BE-1352,urbansole-footwear,"Current price
+
+Rs.3,637",https://www.urbansole.com.pk/cdn/shop/files/BE-1352Black_700x700.jpg?v=1705240919,https://www.urbansole.com.pk/collections/urbansole-footwear/products/be-1352
+228,ARANG PW-1306,urbansole-footwear,"Current price
+
+Rs.3,289",https://www.urbansole.com.pk/cdn/shop/files/PW-1306Black_700x700.jpg?v=1705230476,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pw-1306
+229,ZYPHER MR-1101,urbansole-footwear,"Rs.6,995",https://www.urbansole.com.pk/cdn/shop/files/MR-1101Black_700x700.jpg?v=1705496049,https://www.urbansole.com.pk/collections/urbansole-footwear/products/mr-1101
+230,SCULPTOR DM-1103,urbansole-footwear,"Current price
+
+Rs.4,829",https://www.urbansole.com.pk/cdn/shop/files/DM-1103Black_700x700.jpg?v=1705420652,https://www.urbansole.com.pk/collections/urbansole-footwear/products/dm-1103
+231,KHALTI PW-1308,urbansole-footwear,"Rs.5,199",https://www.urbansole.com.pk/cdn/shop/files/PW-1308Black_700x700.jpg?v=1705230557,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pw-1308
+232,MARALA PW-1307,urbansole-footwear,"Current price
+
+Rs.3,639",https://www.urbansole.com.pk/cdn/shop/files/PW-1307Black_700x700.jpg?v=1705230516,https://www.urbansole.com.pk/collections/urbansole-footwear/products/pw-1307
+233,MELFORT FM-0352,urbansole-footwear,"Current price
+
+Rs.4,098",https://www.urbansole.com.pk/cdn/shop/files/FM-0352Brown_700x700.jpg?v=1705417820,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-0352
+234,PRAXIS FM-0351,urbansole-footwear,"Current price
+
+Rs.4,098",https://www.urbansole.com.pk/cdn/shop/files/FM-0351Black_700x700.jpg?v=1705417777,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-0351
+235,MACKINTOSH SS-0104,urbansole-footwear,"Current price
+
+Rs.5,039",https://www.urbansole.com.pk/cdn/shop/files/SS-0104Navy_700x700.jpg?v=1705206594,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ss-0104
+236,SHOE RC-0103,urbansole-footwear,"Rs.5,499",https://www.urbansole.com.pk/cdn/shop/files/RC-0103BLACK_700x700.jpg?v=1705206839,https://www.urbansole.com.pk/collections/urbansole-footwear/products/rc-0103
+237,SHOE MOC DM-0102,urbansole-footwear,"Current price
+
+Rs.2,800",https://www.urbansole.com.pk/cdn/shop/products/001_34e1d501-7cec-415a-bf96-9b2eeaef521a_1050x700.webp?v=1675279340,https://www.urbansole.com.pk/collections/urbansole-footwear/products/dm-0102
+238,SPILE FM-9309,urbansole-footwear,"Rs.7,395",https://www.urbansole.com.pk/cdn/shop/files/FM-9309Black_700x700.jpg?v=1705417725,https://www.urbansole.com.pk/collections/urbansole-footwear/products/fm-9309
+239,SHOE 001205,urbansole-footwear,"Current price
+
+Rs.3,989",https://www.urbansole.com.pk/cdn/shop/files/001205D-Brown_700x700.jpg?v=1705210629,https://www.urbansole.com.pk/collections/urbansole-footwear/products/1205
+240,SHOE AD-8107,urbansole-footwear,"Rs.8,195",https://www.urbansole.com.pk/cdn/shop/files/AD-8107Black_700x700.jpg?v=1705210518,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ad-8107
+241,AMBER AT-0101,urbansole-footwear,"Rs.5,599",https://www.urbansole.com.pk/cdn/shop/files/AT-0101Black_700x700.jpg?v=1705496090,https://www.urbansole.com.pk/collections/urbansole-footwear/products/at-0101
+242,HAWKE'S AT-0151,urbansole-footwear,"Rs.5,299",https://www.urbansole.com.pk/cdn/shop/files/AT-0151Navy_700x700.jpg?v=1705241080,https://www.urbansole.com.pk/collections/urbansole-footwear/products/at-0151
+243,KORANGE AT-0152,urbansole-footwear,"Rs.5,299",https://www.urbansole.com.pk/cdn/shop/files/AT-0152Black_700x700.jpg?v=1705241129,https://www.urbansole.com.pk/collections/urbansole-footwear/products/at-0152
+244,SHOE MOC SS-9103,urbansole-footwear,"Rs.7,899",https://www.urbansole.com.pk/cdn/shop/files/SS-9103Brown_700x700.jpg?v=1705210709,https://www.urbansole.com.pk/collections/urbansole-footwear/products/ss-9103
+245,PEARLIUM US-0101,urbansole-footwear,"Rs.5,899",https://www.urbansole.com.pk/cdn/shop/files/US-0101Black_700x700.jpg?v=1705496293,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-0101
+246,CAPRI US-9103,urbansole-footwear,"Rs.5,699",https://www.urbansole.com.pk/cdn/shop/files/US-9103Coffee_700x700.jpg?v=1705496252,https://www.urbansole.com.pk/collections/urbansole-footwear/products/us-9103
+247,SHOE MOC 001206,urbansole-footwear,"Current price
+
+Rs.3,989",https://www.urbansole.com.pk/cdn/shop/files/001206Camello_700x700.jpg?v=1705210750,https://www.urbansole.com.pk/collections/urbansole-footwear/products/1206
+248,SLIPPER US-SM-3301,women,"Rs.1,699",https://www.urbansole.com.pk/cdn/shop/files/US-SM-3301Black-White_1_7d801cbe-3fb4-4d30-a5b2-ed3ce486b331_700x700.webp?v=1705381334,https://www.urbansole.com.pk/collections/women/products/us-sm-3301_a
+249,SLIPPER US-SM-3301,women,"Rs.1,699",https://www.urbansole.com.pk/cdn/shop/files/US-SM-3301Black-Red_1_4c30b5d1-5eef-434b-ab50-a9ccf8198cf2_700x700.webp?v=1705381362,https://www.urbansole.com.pk/collections/women/products/us-sm-3301
+250,SHOE MOC US-DS-3311,women,"Current price
+
+Rs.2,799",https://www.urbansole.com.pk/cdn/shop/files/US-DS-3311Navy_1_1050x700.webp?v=1702965610,https://www.urbansole.com.pk/collections/women/products/us-ds-3311
+251,SHOE MOC US-DS-3312,women,"Current price
+
+Rs.2,799",https://www.urbansole.com.pk/cdn/shop/files/US-DS-3312BEIGE_1_1050x700.webp?v=1702287892,https://www.urbansole.com.pk/collections/women/products/us-ds-3312
+252,BOOT US-JT-3101,women,"Current price
+
+Rs.6,999",https://www.urbansole.com.pk/cdn/shop/files/US-JT-3101COFFEE_1_1050x700.webp?v=1701257921,https://www.urbansole.com.pk/collections/women/products/us-jt-3101
+253,BOOT US-TD-3103,women,"Current price
+
+Rs.6,999",https://www.urbansole.com.pk/cdn/shop/files/US-TD-3103Black_1_1050x700.webp?v=1701257960,https://www.urbansole.com.pk/collections/women/products/us-td-3103
+254,BOOT US-JT-3102,women,"Current price
+
+Rs.6,999",https://www.urbansole.com.pk/cdn/shop/files/US-JT-3102Beige_1_1050x700.webp?v=1701258023,https://www.urbansole.com.pk/collections/women/products/us-jt-3102
+255,SHOE MOC US-NV-3302,women,"Current price
+
+Rs.2,799",https://www.urbansole.com.pk/cdn/shop/files/US-NV-3302Maroon_1_1050x700.webp?v=1700067465,https://www.urbansole.com.pk/collections/women/products/us-nv-3302
+256,SHOE MOC US-NV-3301,women,"Current price
+
+Rs.2,449",https://www.urbansole.com.pk/cdn/shop/files/US-NV-3301Black_1_1050x700.webp?v=1700067216,https://www.urbansole.com.pk/collections/women/products/us-nv-3301
+257,PUMP PC-RB-3303,women,"Current price
+
+Rs.2,449",https://www.urbansole.com.pk/cdn/shop/files/PC-RB-3303Black_1_1050x700.webp?v=1699534273,https://www.urbansole.com.pk/collections/women/products/pc-rb-3303
+258,PUMP PC-RB-3302,women,"Current price
+
+Rs.2,449",https://www.urbansole.com.pk/cdn/shop/files/PC-RB-3302Beige_1_1050x700.webp?v=1699530591,https://www.urbansole.com.pk/collections/women/products/pc-rb-3302
+259,PUMP PC-RB-3301,women,"Current price
+
+Rs.2,449",https://www.urbansole.com.pk/cdn/shop/files/PC-RB-3301Fawn_1_1050x700.webp?v=1699530064,https://www.urbansole.com.pk/collections/women/products/pc-rb-3301
+260,SANDAL US-VC-3302,women,"Current price
+
+Rs.2,350",https://www.urbansole.com.pk/cdn/shop/products/US-VC-3302BLACK_1_3021295a-67df-420f-a420-00ad177e1d39_1050x700.webp?v=1685559331,https://www.urbansole.com.pk/collections/women/products/us-vc-3302
+261,SANDAL US-ER-3104,women,"Rs.4,899",https://www.urbansole.com.pk/cdn/shop/products/US-ER-3104SANDWHITE_1_1050x700.webp?v=1680778648,https://www.urbansole.com.pk/collections/women/products/sandal-us-er-3104
+262,SLIPPER US-ER-3151,women,"Rs.4,899",https://www.urbansole.com.pk/cdn/shop/products/US-ER-3151MOROCCANBLUE_1_1050x700.webp?v=1680778073,https://www.urbansole.com.pk/collections/women/products/us-er-3151
+263,US-ER-3105,women,"Rs.4,899",https://www.urbansole.com.pk/cdn/shop/products/US-ER-3105M-BROWN_1_1050x700.webp?v=1680778130,https://www.urbansole.com.pk/collections/women/products/us-er-3105
+264,SANDAL US-ER-3103,women,"Rs.4,899",https://www.urbansole.com.pk/cdn/shop/products/US-ER-3103NAVY_1_1050x700.webp?v=1680778180,https://www.urbansole.com.pk/collections/women/products/us-er-3103
+265,SANDAL US-ER-3102,women,"Rs.4,899",https://www.urbansole.com.pk/cdn/shop/products/US-ER-3102BLUEBERRY_1_1050x700.webp?v=1680778332,https://www.urbansole.com.pk/collections/women/products/us-er-3102
+266,SANDAL US-ER-3101,women,"Rs.4,899",https://www.urbansole.com.pk/cdn/shop/products/US-ER-3101NAVYBLUE_1_1050x700.webp?v=1680778294,https://www.urbansole.com.pk/collections/women/products/us-er-3101
+267,SLIPPER US-VC-3354,women,"Current price
+
+Rs.2,100",https://www.urbansole.com.pk/cdn/shop/products/US-VC-3354BLACK_1_1050x700.webp?v=1680346605,https://www.urbansole.com.pk/collections/women/products/us-vc-3354
+268,SANDAL US-VC-3303,women,"Current price
+
+Rs.2,350",https://www.urbansole.com.pk/cdn/shop/products/US-VC-3303BLACK_1_1050x700.webp?v=1680345900,https://www.urbansole.com.pk/collections/women/products/us-vc-3303
+269,SLIPPER US-MG-3352,women,"Current price
+
+Rs.1,550",https://www.urbansole.com.pk/cdn/shop/products/US-MG-3352BEIGE_1_1050x700.webp?v=1680346261,https://www.urbansole.com.pk/collections/women/products/us-mg-3352
+270,SANDAL US-MG-3301,women,"Current price
+
+Rs.1,650",https://www.urbansole.com.pk/cdn/shop/products/US-MG-3301BEIGE_1_1050x700.webp?v=1680346050,https://www.urbansole.com.pk/collections/women/products/us-mg-3301
+271,SLIPPER PC-PR-3359,women,"Current price
+
+Rs.1,448",https://www.urbansole.com.pk/cdn/shop/products/PC-PR-3359FAWN_1_1050x700.webp?v=1680345243,https://www.urbansole.com.pk/collections/women/products/pc-pr-3359
+272,SLIPPER PC-PR-3358,women,"Current price
+
+Rs.1,698",https://www.urbansole.com.pk/cdn/shop/products/PC-PR-3358BLACK_1_1050x700.webp?v=1680344583,https://www.urbansole.com.pk/collections/women/products/pc-pr-3358
+273,SLIPPER PC-PR-3357,women,"Current price
+
+Rs.1,698",https://www.urbansole.com.pk/cdn/shop/products/PC-PR-3357BEIGE_1_1050x700.webp?v=1680344435,https://www.urbansole.com.pk/collections/women/products/pc-pr-3357
+274,SLIPPER PC-PR-3356,women,"Current price
+
+Rs.1,448",https://www.urbansole.com.pk/cdn/shop/products/PC-PR-3356BLACK_1_1050x700.webp?v=1680344239,https://www.urbansole.com.pk/collections/women/products/pc-pr-3356
+275,SLIPPER PC-PR-3355,women,"Current price
+
+Rs.1,448",https://www.urbansole.com.pk/cdn/shop/products/PC-PR-3355BLACK_1_1050x700.webp?v=1680344196,https://www.urbansole.com.pk/collections/women/products/pc-pr-3355
+276,SLIPPER PC-PR-3354,women,"Current price
+
+Rs.1,498",https://www.urbansole.com.pk/cdn/shop/products/PC-PR-3354BLACK_1_1050x700.webp?v=1680344143,https://www.urbansole.com.pk/collections/women/products/pc-pr-3354
+277,SLIPPER PC-PR-3353,women,"Current price
+
+Rs.1,498",https://www.urbansole.com.pk/cdn/shop/products/PC-PR-3353BEIGE_1_1050x700.webp?v=1680344084,https://www.urbansole.com.pk/collections/women/products/pc-pr-3353
+278,SLIPPER PC-PR-3352,women,"Current price
+
+Rs.1,848",https://www.urbansole.com.pk/cdn/shop/products/PC-PR-3352BEIGE_1_1050x700.webp?v=1680344014,https://www.urbansole.com.pk/collections/women/products/pc-pr-3352
+279,SLIPPER PC-PR-3351,women,"Current price
+
+Rs.1,598",https://www.urbansole.com.pk/cdn/shop/products/PC-PR-3351BEIGE_1_1050x700.webp?v=1680343661,https://www.urbansole.com.pk/collections/women/products/pc-pr-3351
+280,JUNGLE-GYM UK-1102,kids,"Current price
+
+Rs.1,750",https://www.urbansole.com.pk/cdn/shop/products/1_bdf73b90-222f-4ae7-8f15-fe97288396c8_1050x700.webp?v=1675987587,https://www.urbansole.com.pk/collections/kids/products/uk-1102
+281,SLIDE UK-1101,kids,"Current price
+
+Rs.1,750",https://www.urbansole.com.pk/cdn/shop/products/UK-1101BLACK_2_1050x700.webp?v=1675986959,https://www.urbansole.com.pk/collections/kids/products/uk-1101
+282,WALLET US-WL-3310,accessories,"Rs.2,499",https://www.urbansole.com.pk/cdn/shop/files/US-WL-3310Black_1_700x700.webp?v=1705381761,https://www.urbansole.com.pk/collections/accessories/products/us-wl-3310
+283,WALLET US-WL-3308,accessories,"Rs.2,499",https://www.urbansole.com.pk/cdn/shop/files/US-WL-3308Black_1_700x700.webp?v=1705381802,https://www.urbansole.com.pk/collections/accessories/products/us-wl-3308
+284,WALLET US-WL-3307,accessories,"Rs.2,999",https://www.urbansole.com.pk/cdn/shop/files/US-WL-3307Black_1_700x700.webp?v=1705381834,https://www.urbansole.com.pk/collections/accessories/products/us-wl-3307
+285,WALLET US-WL-3304,accessories,"Rs.2,499",https://www.urbansole.com.pk/cdn/shop/files/US-WL-3304BLACK_1_1050x700.webp?v=1700068696,https://www.urbansole.com.pk/collections/accessories/products/us-wl-3304
+286,WALLET US-WL-3303,accessories,"Rs.2,499",https://www.urbansole.com.pk/cdn/shop/files/US-WL-3303Black_1_1050x700.webp?v=1700068662,https://www.urbansole.com.pk/collections/accessories/products/us-wl-3303
+287,WALLET US-WL-3302,accessories,"Rs.2,299",https://www.urbansole.com.pk/cdn/shop/files/US-WL-3302Black_1_1050x700.webp?v=1700068621,https://www.urbansole.com.pk/collections/accessories/products/us-wl-3302
+288,WALLET US-WL-3301,accessories,"Rs.1,499",https://www.urbansole.com.pk/cdn/shop/files/US-WL-3301BLK-TAN_1_1050x700.webp?v=1700067677,https://www.urbansole.com.pk/collections/accessories/products/us-wl-3301
+289,SHOE URN SHOURN,accessories,Rs.199,https://www.urbansole.com.pk/cdn/shop/files/SHOURNDEFAULT_1_1050x700.webp?v=1699961990,https://www.urbansole.com.pk/collections/accessories/products/shourn
+290,LADIES BAG US-LB-2306,accessories,"Current price
+
+Rs.2,799",https://www.urbansole.com.pk/cdn/shop/files/US-LB-2306NAVY_3_1050x700.webp?v=1699961777,https://www.urbansole.com.pk/collections/accessories/products/us-lb-2306
+291,LADIES BAG US-LB-2305,accessories,"Current price
+
+Rs.3,499",https://www.urbansole.com.pk/cdn/shop/files/US-LB-2305MAROON-BLK_1_1050x700.webp?v=1699961818,https://www.urbansole.com.pk/collections/accessories/products/us-lb-2305
+292,BELT US-BL-3304,accessories,"Rs.1,499",https://www.urbansole.com.pk/cdn/shop/files/US-BL-3304Black_1_1050x700.webp?v=1700561877,https://www.urbansole.com.pk/collections/accessories/products/us-bl-3304
+293,BELT US-BL-3303,accessories,"Rs.2,299",https://www.urbansole.com.pk/cdn/shop/files/US-BL-3303Black_1_1050x700.webp?v=1700552095,https://www.urbansole.com.pk/collections/accessories/products/us-bl-3303
+294,BELT US-BL-3302,accessories,"Rs.1,999",https://www.urbansole.com.pk/cdn/shop/files/US-BL-3302Black_1_1050x700.webp?v=1700549410,https://www.urbansole.com.pk/collections/accessories/products/us-bl-3302
+295,BELT US-BL-3301,accessories,"Rs.2,299",https://www.urbansole.com.pk/cdn/shop/files/US-BL-3301Brown_1_1050x700.webp?v=1700548016,https://www.urbansole.com.pk/collections/accessories/products/us-bl-3301
+296,INSOLE IS-0301,accessories,Rs.249,https://www.urbansole.com.pk/cdn/shop/files/IS-0301BLUE_1_1050x700.webp?v=1699961877,https://www.urbansole.com.pk/collections/accessories/products/is-0301
+297,WAX AC-2304,accessories,Rs.199,https://www.urbansole.com.pk/cdn/shop/files/AC-2304BLACK_3_1050x700.webp?v=1699962504,https://www.urbansole.com.pk/collections/accessories/products/ac-2304
+298,SOCKS US-HS-3324,accessories,Rs.349,https://www.urbansole.com.pk/cdn/shop/files/US-HS-3324_1_1050x700.webp?v=1698041862,https://www.urbansole.com.pk/collections/accessories/products/us-hs-3324
+299,SOCKS US-HS-3322,accessories,Rs.499,https://www.urbansole.com.pk/cdn/shop/files/US-HS-3322_1_1050x700.webp?v=1698041891,https://www.urbansole.com.pk/collections/accessories/products/us-hs-3322
+300,SOCKS US-HS-3319,accessories,Rs.349,https://www.urbansole.com.pk/cdn/shop/files/US-HS-3319_1_1050x700.webp?v=1698041920,https://www.urbansole.com.pk/collections/accessories/products/us-hs-3319
+301,SOCKS US-HS-3317,accessories,Rs.349,https://www.urbansole.com.pk/cdn/shop/files/US-HS-3317_1_1050x700.webp?v=1698041991,https://www.urbansole.com.pk/collections/accessories/products/us-hs-3317
+302,SOCKS US-HS-3316,accessories,Rs.349,https://www.urbansole.com.pk/cdn/shop/files/US-HS-3316_1_1050x700.webp?v=1698042021,https://www.urbansole.com.pk/collections/accessories/products/us-hs-3316
+303,SOCKS US-HS-3315,accessories,Rs.349,https://www.urbansole.com.pk/cdn/shop/files/US-HS-3315_2_1050x700.webp?v=1698042059,https://www.urbansole.com.pk/collections/accessories/products/us-hs-3315
+304,SOCKS US-HS-3311,accessories,Rs.249,https://www.urbansole.com.pk/cdn/shop/files/US-HS-3311_1_1050x700.webp?v=1698042145,https://www.urbansole.com.pk/collections/accessories/products/us-hs-3311
+305,SOCKS US-HS-3310,accessories,Rs.249,https://www.urbansole.com.pk/cdn/shop/files/US-HS-3310_1_1050x700.webp?v=1698042178,https://www.urbansole.com.pk/collections/accessories/products/us-hs-3310
+306,SOCKS US-HS-3307,accessories,Rs.249,https://www.urbansole.com.pk/cdn/shop/files/US-HS-3307_1_1050x700.webp?v=1698042255,https://www.urbansole.com.pk/collections/accessories/products/us-hs-3307
+307,SOCKS US-HS-3306,accessories,Rs.249,https://www.urbansole.com.pk/cdn/shop/files/US-HS-3306_1_1050x700.webp?v=1698042275,https://www.urbansole.com.pk/collections/accessories/products/us-hs-3306
+308,SOCKS US-HS-3305,accessories,Rs.249,https://www.urbansole.com.pk/cdn/shop/files/US-HS-3305_1_1050x700.webp?v=1698042281,https://www.urbansole.com.pk/collections/accessories/products/us-hs-3305
+309,SHOE SHINER US-AC-3315,accessories,Rs.499,https://www.urbansole.com.pk/cdn/shop/files/US-AC-3315NEUTRAL_1_1050x700.webp?v=1700067875,https://www.urbansole.com.pk/collections/accessories/products/us-ac-3315
+310,DEODRENT US-AC-3314,accessories,Rs.499,https://www.urbansole.com.pk/cdn/shop/files/DEO_700x700.jpg?v=1691401216,https://www.urbansole.com.pk/collections/accessories/products/us-ac-3314
+311,NATURAL SPRAY US-AC-3313,accessories,Rs.499,https://www.urbansole.com.pk/cdn/shop/files/sneaker-cleaner_700x700.jpg?v=1691401203,https://www.urbansole.com.pk/collections/accessories/products/us-ac-3313
+312,LEATHER LOTION US-AC-3312,accessories,Rs.999,https://www.urbansole.com.pk/cdn/shop/files/lotion_700x700.jpg?v=1691401187,https://www.urbansole.com.pk/collections/accessories/products/us-ac-3312
+313,LADIES BAG US-LB-2302,accessories,"Current price
+
+Rs.2,799",https://www.urbansole.com.pk/cdn/shop/files/US-LB-2302Navy_1_1060x700.webp?v=1691164494,https://www.urbansole.com.pk/collections/accessories/products/us-lb-2302
+314,INSOLE IS-2302,accessories,"Rs.1,249",https://www.urbansole.com.pk/cdn/shop/products/02_0820b7f8-d38f-421b-938d-19d1504f8787_467x700.jpg?v=1669830722,https://www.urbansole.com.pk/collections/accessories/products/is-2302
+315,WALLET WL-1313,accessories,"Current price
+
+Rs.1,399",https://www.urbansole.com.pk/cdn/shop/products/WL-1313Black_1_1050x700.webp?v=1675441603,https://www.urbansole.com.pk/collections/accessories/products/wl-1313
+316,WALLET WL-1312,accessories,"Current price
+
+Rs.1,259",https://www.urbansole.com.pk/cdn/shop/products/WL-1312Black_1_1050x700.webp?v=1675441683,https://www.urbansole.com.pk/collections/accessories/products/wl-1312
+317,NATURAL SPRAY ac-2310,accessories,Rs.299,https://www.urbansole.com.pk/cdn/shop/products/AC-2310_f078d68e-6199-4b96-bcb6-0a3eeea9c987_1050x700.jpg?v=1665060042,https://www.urbansole.com.pk/collections/accessories/products/ac-2310
+318,NATURAL SPRAY ac-2308,accessories,Rs.399,https://www.urbansole.com.pk/cdn/shop/products/ac-2308_1050x700.jpg?v=1664438057,https://www.urbansole.com.pk/collections/accessories/products/ac-2308
+319,Sailor US-FX-3104,technology,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3104Navy_6d4ba74d-eb47-4692-a8d5-613f87153e4c_700x700.jpg?v=1704705110,https://www.urbansole.com.pk/collections/technology/products/us-fx-3104-navy
+320,Cosmora US-FX-3105,technology,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3105Grey_fb2f78a2-ec24-40e9-a86f-090c01b53675_700x700.jpg?v=1704704181,https://www.urbansole.com.pk/collections/technology/products/us-fx-3105-grey
+321,Sailor US-FX-3104,technology,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3104Cuiou_4e4bcfa9-74e0-44ea-99c6-83c7ad5363d3_700x700.jpg?v=1704704957,https://www.urbansole.com.pk/collections/technology/products/us-fx-3104-black
+322,Imperium US-FX-3103,technology,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3103Windy_7f94bb21-b700-4812-a3bc-37a6dcc552a1_700x700.jpg?v=1704704592,https://www.urbansole.com.pk/collections/technology/products/us-fx-3103-windy
+323,Czar US-FX-3102,technology,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3102M.Brown_e4758c24-b3c4-4b27-9f37-6427b9dbcc37_700x700.jpg?v=1704450610,https://www.urbansole.com.pk/collections/technology/products/us-fx-3102-m-brown
+324,Victor US-FX-3101,technology,"Current price
+
+Rs.5,949",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3101Black_3a381dee-9474-4711-8534-402eec356a46_700x700.jpg?v=1704704334,https://www.urbansole.com.pk/collections/technology/products/us-fx-3101-tan
+325,Clod US-ST-3202,technology,"Rs.29,999",https://www.urbansole.com.pk/cdn/shop/files/US-ST-3202Navy_700x700.jpg?v=1705228281,https://www.urbansole.com.pk/collections/technology/products/clod-us-st-3202
+326,Sphere US-ST-3202,technology,"Rs.29,999",https://www.urbansole.com.pk/cdn/shop/files/US-ST-3202Grey_700x700.jpg?v=1705228246,https://www.urbansole.com.pk/collections/technology/products/sphere-us-st-3202
+327,Terrain US-ST-3201,technology,"Rs.29,999",https://www.urbansole.com.pk/cdn/shop/files/US-ST-3201Green_700x700.jpg?v=1705228230,https://www.urbansole.com.pk/collections/technology/products/terrain-us-st-3201
+328,Turf US-ST-3201,technology,"Rs.29,999",https://www.urbansole.com.pk/cdn/shop/files/US-ST-3201Black_700x700.jpg?v=1705228213,https://www.urbansole.com.pk/collections/technology/products/turf-us-st-3201
+329,Orb US-ST-3201,technology,"Rs.29,999",https://www.urbansole.com.pk/cdn/shop/files/US-ST-3201Beige_700x700.jpg?v=1705228165,https://www.urbansole.com.pk/collections/technology/products/orb-us-st-3201
+330,Cosmora US-FX-3105,technology,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3105M-Brown_700x700.jpg?v=1704704124,https://www.urbansole.com.pk/collections/technology/products/us-fx-3105
+331,Sailor US-FX-3104,technology,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3104Black_700x700.jpg?v=1704704752,https://www.urbansole.com.pk/collections/technology/products/us-fx-3104
+332,Imperium US-FX-3103,technology,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3103Black_b8d2890a-9249-4471-b5eb-fec4b6c1134b_700x700.jpg?v=1704704515,https://www.urbansole.com.pk/collections/technology/products/us-fx-3103
+333,Czar US-FX-3102,technology,"Rs.8,499",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3102Black_a98aced0-8faa-423c-85d5-903d851e2503_700x700.jpg?v=1704449651,https://www.urbansole.com.pk/collections/technology/products/us-fx-3102
+334,Victor US-FX-3101,technology,"Current price
+
+Rs.5,949",https://www.urbansole.com.pk/cdn/shop/files/US-FX-3101Tan_700x700.jpg?v=1704704426,https://www.urbansole.com.pk/collections/technology/products/us-fx-3101
+335,SANDAL RF-2153,technology,"Rs.6,199",https://www.urbansole.com.pk/cdn/shop/files/RF-2153Black_700x700.jpg?v=1705489406,https://www.urbansole.com.pk/collections/technology/products/rf-2153
+336,SANDAL RF-2152,technology,"Rs.6,199",https://www.urbansole.com.pk/cdn/shop/files/RF-2152Black_700x700.jpg?v=1705489536,https://www.urbansole.com.pk/collections/technology/products/rf-2152
+337,SANDAL US-AX-3103,technology,"Current price
+
+Rs.5,529",https://www.urbansole.com.pk/cdn/shop/files/US-AX-3103B-Caramel_700x700.jpg?v=1705489979,https://www.urbansole.com.pk/collections/technology/products/sandal-us-ax-3103
+338,SANDAL US-AX-3104,technology,"Rs.7,999",https://www.urbansole.com.pk/cdn/shop/files/US-AX-3104Timberland_700x700.jpg?v=1705490097,https://www.urbansole.com.pk/collections/technology/products/us-ax-3104
+339,SANDAL US-AX-3102,technology,"Rs.7,999",https://www.urbansole.com.pk/cdn/shop/files/US-AX-3102Black_700x700.jpg?v=1705490383,https://www.urbansole.com.pk/collections/technology/products/us-ax-3102
+340,SANDAL US-AX-3101,technology,"Rs.7,999",https://www.urbansole.com.pk/cdn/shop/files/US-AX-3101Black_700x700.jpg?v=1705490634,https://www.urbansole.com.pk/collections/technology/products/us-ax-3101
